@@ -289,7 +289,7 @@ namespace CSharp_Class_5
                 Console.WriteLine(element);
             }
 
-            // Szokásos tömbö műveletek működnek + Capacity, Count, Remove stb. mint listáknál
+            // Szokásos tömb műveletek működnek + Capacity, Count, Remove stb. mint listáknál
 
             // Mikor használjuk?
             // Amikor egyediséget szeretnénk kikényszeríteni
